@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/joaobtj/joaobtj.r-universe.dev
 	branch = HEAD
+[submodule "hf"]
+	path = hf
+	url = https://github.com/joaobtj/hf
 [submodule "irritool"]
 	path = irritool
 	url = https://github.com/joaobtj/irritool
