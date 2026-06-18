@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/joaobtj/joaobtj.r-universe.dev
 	branch = HEAD
+[submodule "agriclimr"]
+	path = agriclimr
+	url = https://github.com/joaobtj/agriclimr
 [submodule "hf"]
 	path = hf
 	url = https://github.com/joaobtj/hf
